@@ -1,0 +1,7 @@
+{
+    "method": "POST",
+    "headers": {
+        "Content-Type": "application/json"
+    },
+    "body": "{\"image\":\"https://cdn.britannica.com/65/227665-050-D74A477E/American-actor-Leonardo-DiCaprio-2016.jpg\",\"prompt\":\"Who?\"}"
+}
